@@ -1,8 +1,11 @@
+# Datasets  
+These may (or may not) look familar.  
 [20k_names](https://github.com/jacobpad/random-datasets/blob/master/20k_names.txt)  
 [7-13-2020_job_listings](https://github.com/jacobpad/random-datasets/blob/master/7-13-2020_job_listings.csv)  
 [Build_FIGHTERS](https://github.com/jacobpad/random-datasets/blob/master/Build_FIGHTERS.csv)  
 [Build_FIGHTS](https://raw.githubusercontent.com/jacobpad/random-datasets/master/Build_FIGHTS.csv)  
 ---
+# Huge List of Datasets
 [github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)  
 [fivethirtyeight.com/](https://fivethirtyeight.com/)  
 [kaggle.com/datasets](https://www.kaggle.com/datasets)  
@@ -22,3 +25,5 @@
 [list_of_public_datasets](https://www.reddit.com/r/datasets/comments/9oai7u/list_of_public_datasets/)  
 [The 50 Best Free Datasets for Machine Learning](https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/)  
 [reddit.com](https://www.reddit.com/r/datasets/search?q=flair_name%3A%22dataset%22&restrict_sr=1)  
+[Deep-Learning](https://github.com/priya-dwivedi/Deep-Learning)  
+[HarryPotter-books](https://github.com/priya-dwivedi/Deep-Learning/tree/master/GPT2-HarryPotter-Training/books)  
